@@ -9,6 +9,7 @@ feito para conectar professores e alunos em uma plataforma facil e amigavel de a
 - React-router-dom
 - Typescript
 - Axios
+- Expo
 
 ## Como utilizar
 
